@@ -6,6 +6,7 @@ public class StudentGradesSystem {
     int gradeMath;
     int gradeJava;
     int gradeEnglish;
+    String a;
     int gradeGerman;
     int gradeHistory;
 
